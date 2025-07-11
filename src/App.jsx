@@ -12,7 +12,7 @@ const App = () => {
         <div className='app-banner'>
           <p className='banner-title'>What is this site for?</p>
           <p className='banner-message'>
-            I wanted to make a password manager so here it is.
+            I wanted to make a password generator so here it is.
             Just choose the type of hash you want and then
             your new password will be ready to go! 
             Just click to copy :)
